@@ -29,6 +29,7 @@
     "simple-import-sort/imports": "error",
     "simple-import-sort/exports": "error"
   },
+  "ignorePatterns": ["**/*.js"],
   "overrides": [
     {
       "files": ["*.js", "*.jsx", "*.ts", "*.tsx"],
